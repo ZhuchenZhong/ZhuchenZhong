@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ZhuchenZhong
-- 👀 I’m interested in Python3.10 / C++ / C
-- Reach me through email `cps3362521@139.com`
+- 👋 Hi!
